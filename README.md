@@ -2,8 +2,6 @@
 
 Analisis ulasan pelanggan **Hotel Swiss-Belinn Manyar Surabaya** dari Traveloka menggunakan **Topic Modeling (LDA vs BERTopic)** dan **Aspect-Based Sentiment Analysis** berbasis IndoBERT.
 
-> Proyek akhir mata kuliah Metode Data Mining dan Text Mining (MDTT), Departemen Statistika Bisnis, Fakultas Vokasi, Institut Teknologi Sepuluh Nopember (ITS).
-
 ## Latar Belakang
 
 Persaingan industri perhotelan di kota besar menuntut manajemen memahami suara pelanggan secara cepat. Ulasan di platform daring bersifat tidak terstruktur sehingga sulit dianalisis secara manual. Proyek ini mengubah 1.000 ulasan menjadi insight yang dapat ditindaklanjuti.
