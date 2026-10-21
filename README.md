@@ -54,9 +54,9 @@ Persaingan industri perhotelan di kota besar menuntut manajemen memahami suara p
 ```
 .
 ├── notebooks/
-│   └── 035_136_PROYEK_AKHIR_MDTT.ipynb        # Notebook utama (sumber laporan)
+│   └── 035_136_PROYEK_AKHIR_MDTT.ipynb  
 ├── report/
-│   └── Topic_Modeling_035_Farhan_136_Alesandro.pdf   # Laporan lengkap
+│   └── Topic_Modeling_Alesandro_Farhan.pdf
 └── README.md
 ```
 
@@ -81,7 +81,5 @@ Python · Selenium · BeautifulSoup · Pandas · NumPy · Sastrawi · NLTK · sc
 
 ## Penulis
 
-- **Farhan Muhammad Rizqi** (NRP 2043221035)
-- **Alesandro Yoel Deca Putranto** (NRP 2043221136)
-
-Departemen Statistika Bisnis, ITS.
+- **Alesandro Yoel Deca Putranto**
+- **Farhan Muhammad Rizqi** 
